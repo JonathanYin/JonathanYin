@@ -3,6 +3,8 @@
 
 I'm passionate 💞 about creating software 👾 for a better future, and working alongside people 💼 with the same vision. Some of my hobbies include weightlifting 🦾, music 🎹, and video games 🎮. 
 
+[Resume](jonathan_yin_resume.pdf)
+
 Contact me at my [email](mailto:joyin@ucsd.edu)! 
 <!---
 JonathanYin/JonathanYin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
