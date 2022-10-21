@@ -6,17 +6,11 @@ I'm passionate 💞 about creating software 👾 for a better future, and workin
 [Resume](jonathan_yin_resume.pdf)
 
 ```javascript
-const thai = {
+const jonathan = {
   pronouns: "he" | "him",
-  code: [C++, Java HTML, CSS, JavaScript, Python, Java],
+  code: [C++, Java HTML, CSS, JavaScript, Java, C],
   tools: [Node, SQL, React, MongoDB, Firebase, Unity, Unreal Engine],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
 
