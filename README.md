@@ -5,6 +5,21 @@ I'm passionate 💞 about creating software 👾 for a better future, and workin
 
 [Resume](jonathan_yin_resume.pdf)
 
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [C++, Java HTML, CSS, JavaScript, Python, Java],
+  tools: [Node, SQL, React, MongoDB, Firebase, Unity, Unreal Engine],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 Contact me at my [email](mailto:joyin@ucsd.edu)! 
 <!---
 JonathanYin/JonathanYin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
