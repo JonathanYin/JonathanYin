@@ -6,6 +6,8 @@ I'm passionate 💞 about creating software 👾 for a better future, and workin
 [Resume](jonathan_yin_resume.pdf)
 
 ```javascript
+console.log("Nice to meet you!");
+
 const jonathan = {
   pronouns: "he" | "him",
   code: [C++, Java, HTML, CSS, JavaScript, Java, C, SystemVerilog],
