@@ -10,7 +10,7 @@ const jonathan = {
   pronouns: "he" | "him",
   code: [C++, Java HTML, CSS, JavaScript, Java, C],
   tools: [Node, SQL, React, MongoDB, Firebase, Unity, Unreal Engine],
-  other: ["agile development", "CI/CD"]
+  software practices: ["agile development", "CI/CD"]
 }
 ```
 
