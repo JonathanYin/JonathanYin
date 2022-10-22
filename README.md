@@ -10,7 +10,7 @@ console.log("Nice to meet you!");
 
 const jonathan = {
   pronouns: "he" | "him",
-  code: [C++, Java, HTML, CSS, JavaScript, Java, C, SystemVerilog],
+  code: [C++, Java, HTML, CSS, JavaScript, C, C#, SystemVerilog],
   tools: [Node.js, Bootstrap, React, MongoDB, Firebase, Unity, Unreal Engine],
   software practices: ["agile development", "CI/CD"]
 }
