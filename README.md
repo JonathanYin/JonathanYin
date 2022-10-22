@@ -8,7 +8,7 @@ I'm passionate 💞 about creating software 👾 for a better future, and workin
 ```javascript
 const jonathan = {
   pronouns: "he" | "him",
-  code: [C++, Java HTML, CSS, JavaScript, Java, C],
+  code: [C++, Java, HTML, CSS, JavaScript, Java, C],
   tools: [Node, SQL, React, MongoDB, Firebase, Unity, Unreal Engine],
   software practices: ["agile development", "CI/CD"]
 }
