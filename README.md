@@ -1,5 +1,5 @@
 # Jonathan Yin
-👋 Hi, I’m @JonathanYin, a mathematics-computer science 💻 major with a minor in computer engineering 📚 at the University of California, San Diego 🔱.
+👋 Hi, I’m @JonathanYin, a mathematics-computer science major 💻 with a minor in computer engineering 💾 at the University of California, 📚 San Diego 🔱.
 
 I'm passionate 💞 about creating software 👾 for a better future, and working alongside people 💼 with the same vision. Some of my hobbies include weightlifting 🦾, music 🎹, and video games 🎮. 
 
