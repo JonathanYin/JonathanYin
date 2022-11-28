@@ -3,7 +3,7 @@
 
 I'm passionate 💞 about creating software 👾 for a better future, and working alongside people 💼 with the same vision. Some of my hobbies include weightlifting 🦾, music 🎹, and video games 🎮. 
 
-[Resume](jonathan_yin_resume.pdf)
+[Resume](jonathan_yin_resume_2023.pdf)
 
 ```javascript
 console.log("Nice to meet you!");
