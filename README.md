@@ -11,10 +11,10 @@ console.log("Nice to meet you!");
 const jonathan = {
   pronouns: "he" | "him",
   languages: [JavaScript, Java, HTML, CSS, C#, C++, C, Python, SystemVerilog, Haskell],
-  frameworks: [Node.js, Express, Vue, Jest],
+  frameworks: [Next.js, Node.js, Express, Vue, Jest],
   libraries: [jQuery, Bootstrap, React, Redux, Three.js, Leaflet],
   databases: [MongoDB, Firebase],
-  tools: [Git, VS Code, Visual Studio, Unity, Unreal Engine 5, Agile]
+  tools: [Git, VS Code, Visual Studio, Unity, Unreal Engine 5, Postman, Agile]
 }
 ```
 
