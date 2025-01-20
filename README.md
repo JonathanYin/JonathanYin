@@ -1,5 +1,5 @@
 # Jonathan Yin
-👋 Hi, I’m a software engineer at Typeface and UC San Diego math + CS graduate. 
+👋 Hi, I’m a software engineer at [Typeface](https://www.typeface.ai/) and UC San Diego math + CS graduate. 
 
 Feel free to contact me at my [email](mailto:jonathanyin66@gmail.com)! 
 <!---
